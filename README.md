@@ -1,2 +1,2 @@
 # timam
-It's a HTML to PSD file
+It's a PSD to HTML file
